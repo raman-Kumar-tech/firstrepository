@@ -15,3 +15,6 @@ function extra(){
 function extra2(){
     console.log("hello kya hall hain");
 }
+
+console.log("finally uploaded on github");
+console.log("done");
