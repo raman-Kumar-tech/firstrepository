@@ -10,5 +10,8 @@ function next(){
 }
 function extra(){
     console.log("extra addedd");
+}
 
+function extra2(){
+    console.log("hello kya hall hain");
 }
